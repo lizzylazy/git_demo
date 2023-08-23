@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
     print('This is a new line')
     employee_name('Lirui', 'Zhang')
+    print('This is the second line')
 
 def employee_name(first_name, last_name):
     print(f'{first_name} {last_name} say is hello')
