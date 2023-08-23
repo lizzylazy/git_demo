@@ -12,6 +12,7 @@ def print_hi(name):
     print('This is the second line')
     print('This the the line in the develop branch')
     x = 'variable in master branch'
+
 def employee_name(first_name, last_name):
     print(f'{first_name} {last_name} say is hello')
 # Press the green button in the gutter to run the script.
